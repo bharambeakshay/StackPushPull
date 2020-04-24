@@ -1,0 +1,16 @@
+#5:45  Fri,Apr24,2020
+
+organization    -  gitDevelopersStuff
+
+Teams:{
+  gitNikhilsahu
+  bharambeakshay
+  bhaveshrsahu
+  sumitdc
+  -
+}
+
+____________________real time production project____________________
+
+--------------------Using Django------------------------------------
+##  StackPushPull
