@@ -1,0 +1,18 @@
+{% extends 'base.html' %} 
+
+{% block title %} Account Home {% endblock %} 
+
+
+{% block content %}
+
+<span class="display-3 text-center">Account Home</span>
+{% for message in messages %}
+    <p id="messages">{{message}}</p>
+{% endfor %}
+
+<br>
+
+<a href="{% url 'user-profile' %}"><button type="submit" class="btn btn-success">Your Profile Update</button></a>
+
+
+{% endblock %}
